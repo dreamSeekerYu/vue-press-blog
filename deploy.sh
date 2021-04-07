@@ -5,7 +5,7 @@
 set -e
 
 # 构建
-npm run build
+# npm run build
 
 # 进入生成的文件夹
 cd docs/.vuepress/dist
