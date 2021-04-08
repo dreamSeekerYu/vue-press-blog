@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dreamSeekerYu/vue-press-blog/issues"
   },
-  "homepage": "https://github.com/dreamSeekerYu/vue-press-blog#readme"
+  "homepage": "https://github.com/dreamSeekerYu/vue-press-blog#readme",
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  }
 }
