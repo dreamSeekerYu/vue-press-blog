@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/dreamSeekerYu/vue-press-blog#readme",
   "dependencies": {
-    "vuepress": "^1.8.2"
+    "vuepress": "^1.8.2",
+    "vuepress-theme-reco": "^1.6.6"
   }
 }
