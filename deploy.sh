@@ -26,6 +26,7 @@ git config credential.helper store
 
 # 如果你要部署到 https://username.github.io
 git push -u -f https://github.com/dreamSeekerYu/dreamSeekerYu.github.io.git master
+git push -u -f https://github.com/dreamSeekerYu/dreamSeekerYu.github.io.git main
 
 cd - # 退回开始所在目录
 rm -rf docs/.vuepress/dist
